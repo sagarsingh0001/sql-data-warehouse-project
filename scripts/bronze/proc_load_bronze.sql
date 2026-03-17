@@ -10,7 +10,7 @@ Script Purpost:
 
 Paremeters:
   None.
-  This stoed procedure does not accept any parameters or return any values.
+  This stored procedure does not accept any parameters or return any values.
 
 Using Example:
   EXEC bronze.load_bronze;
